@@ -1,0 +1,8 @@
+{
+  "user": "User",
+  "email": "Email",
+  "form": {
+    "title": "Title",
+    "button_text": "Some text"
+  }
+}

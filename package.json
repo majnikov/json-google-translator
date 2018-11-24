@@ -1,0 +1,22 @@
+{
+  "name": "json-google-translator",
+  "version": "0.0.1",
+  "description": "Translate you json file with the google translator API",
+  "main": "translate-json.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "google",
+    "json",
+    "translator",
+    "API",
+    "translate"
+  ],
+  "author": "Maksim Mazhnikov",
+  "license": "ISC",
+  "dependencies": {
+    "@google-cloud/translate": "^2.1.2",
+    "lodash": "^4.17.11"
+  }
+}
