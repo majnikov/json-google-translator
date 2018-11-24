@@ -14,7 +14,7 @@
     "translate"
   ],
   "author": "Maksim Mazhnikov",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "@google-cloud/translate": "^2.1.2",
     "lodash": "^4.17.11"
